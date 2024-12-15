@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using SegmentFilter.Views;
+using System.Windows;
 
 namespace SegmentFilter;
 

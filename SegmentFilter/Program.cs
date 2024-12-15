@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using SegmentFilter.Views;
 
 namespace SegmentFilter;
 
